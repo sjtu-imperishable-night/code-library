@@ -1,0 +1,4054 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.23)  25 SEP 2018 00:19
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**full.tex
+(./full.tex
+LaTeX2e <2018-04-01> patch level 5
+(c:/texlive/2018/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2018/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex.sty
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018-08-23 L3 programming layer (loader) 
+
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018-08-23 L3 programming layer (code)
+\c_max_int=\count89
+\l_tmpa_int=\count90
+\l_tmpb_int=\count91
+\g_tmpa_int=\count92
+\g_tmpb_int=\count93
+\g__kernel_prg_map_int=\count94
+\c_log_iow=\count95
+\l_iow_line_count_int=\count96
+\l__iow_line_target_int=\count97
+\l__iow_one_indent_int=\count98
+\l__iow_indent_int=\count99
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count100
+\l__intarray_loop_int=\count101
+\c__intarray_sp_dim=\dimen109
+\g__intarray_font_int=\count102
+\c__fp_leading_shift_int=\count103
+\c__fp_middle_shift_int=\count104
+\c__fp_trailing_shift_int=\count105
+\c__fp_big_leading_shift_int=\count106
+\c__fp_big_middle_shift_int=\count107
+\c__fp_big_trailing_shift_int=\count108
+\c__fp_Bigg_leading_shift_int=\count109
+\c__fp_Bigg_middle_shift_int=\count110
+\c__fp_Bigg_trailing_shift_int=\count111
+\g__fp_array_int=\count112
+\l__fp_array_loop_int=\count113
+\l__sort_length_int=\count114
+\l__sort_min_int=\count115
+\l__sort_top_int=\count116
+\l__sort_max_int=\count117
+\l__sort_true_max_int=\count118
+\l__sort_block_int=\count119
+\l__sort_begin_int=\count120
+\l__sort_end_int=\count121
+\l__sort_A_int=\count122
+\l__sort_B_int=\count123
+\l__sort_C_int=\count124
+\l__tl_analysis_normal_int=\count125
+\l__tl_analysis_index_int=\count126
+\l__tl_analysis_nesting_int=\count127
+\l__tl_analysis_type_int=\count128
+\l__regex_internal_a_int=\count129
+\l__regex_internal_b_int=\count130
+\l__regex_internal_c_int=\count131
+\l__regex_balance_int=\count132
+\l__regex_group_level_int=\count133
+\l__regex_mode_int=\count134
+\c__regex_cs_in_class_mode_int=\count135
+\c__regex_cs_mode_int=\count136
+\l__regex_catcodes_int=\count137
+\l__regex_default_catcodes_int=\count138
+\c__regex_catcode_L_int=\count139
+\c__regex_catcode_O_int=\count140
+\c__regex_catcode_A_int=\count141
+\c__regex_all_catcodes_int=\count142
+\l__regex_show_lines_int=\count143
+\l__regex_min_state_int=\count144
+\l__regex_max_state_int=\count145
+\l__regex_left_state_int=\count146
+\l__regex_right_state_int=\count147
+\l__regex_capturing_group_int=\count148
+\l__regex_min_pos_int=\count149
+\l__regex_max_pos_int=\count150
+\l__regex_curr_pos_int=\count151
+\l__regex_start_pos_int=\count152
+\l__regex_success_pos_int=\count153
+\l__regex_curr_char_int=\count154
+\l__regex_curr_catcode_int=\count155
+\l__regex_last_char_int=\count156
+\l__regex_case_changed_char_int=\count157
+\l__regex_curr_state_int=\count158
+\l__regex_step_int=\count159
+\l__regex_min_active_int=\count160
+\l__regex_max_active_int=\count161
+\l__regex_replacement_csnames_int=\count162
+\l__regex_match_count_int=\count163
+\l__regex_min_submatch_int=\count164
+\l__regex_submatch_int=\count165
+\l__regex_zeroth_submatch_int=\count166
+\g__regex_trace_regex_int=\count167
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+\l__box_top_dim=\dimen110
+\l__box_bottom_dim=\dimen111
+\l__box_left_dim=\dimen112
+\l__box_right_dim=\dimen113
+\l__box_top_new_dim=\dimen114
+\l__box_bottom_new_dim=\dimen115
+\l__box_left_new_dim=\dimen116
+\l__box_right_new_dim=\dimen117
+\l__box_internal_box=\box31
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen118
+\l__coffin_offset_x_dim=\dimen119
+\l__coffin_offset_y_dim=\dimen120
+\l__coffin_x_dim=\dimen121
+\l__coffin_y_dim=\dimen122
+\l__coffin_x_prime_dim=\dimen123
+\l__coffin_y_prime_dim=\dimen124
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\l__coffin_display_coffin=\box38
+\l__coffin_display_coord_coffin=\box39
+\l__coffin_display_pole_coffin=\box40
+\l__coffin_display_offset_dim=\dimen125
+\l__coffin_display_x_dim=\dimen126
+\l__coffin_display_y_dim=\dimen127
+\g__file_internal_ior=\read1
+\l__coffin_bounding_shift_dim=\dimen128
+\l__coffin_left_corner_dim=\dimen129
+\l__coffin_right_corner_dim=\dimen130
+\l__coffin_bottom_corner_dim=\dimen131
+\l__coffin_top_corner_dim=\dimen132
+\l__coffin_scaled_total_height_dim=\dimen133
+\l__coffin_scaled_width_dim=\dimen134
+)
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2018-08-23 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count168
+))
+Package: ctex 2018/05/02 v2.4.14 Chinese adapter in LaTeX (CTEX)
+
+(c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018-08-23 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count169
+\g__xparse_grabber_int=\count170
+\l__xparse_m_args_int=\count171
+\l__xparse_mandatory_args_int=\count172
+\l__xparse_v_nesting_int=\count173
+)
+(c:/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018-08-23 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2018/05/02 v2.4.14 Document and package hooks (CTEX)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2018/05/02 v2.4.14 Patching commands (CTEX)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+(c:/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count174
+\l__ctex_tmp_box=\box41
+\l__ctex_tmp_dim=\dimen135
+\g__ctex_font_size_flag=\count175
+
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2018/05/02 v2.4.14 Option configuration file (CTEX)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2018/05/02 v2.4.14 XeLaTeX adapter (CTEX)
+
+(c:/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2018/04/30 v3.7.1 Typesetting CJK scripts with XeLaTeX
+
+(c:/texlive/2018/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2018-08-23 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen136
+\l__xtemplate_tmp_int=\count176
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count177
+\l__xeCJK_tmp_box=\box42
+\l__xeCJK_tmp_dim=\dimen137
+\l__xeCJK_tmp_skip=\skip50
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKShipoutHook with sig. '' on line 150.
+.................................................
+\g__xeCJK_space_factor_int=\count178
+\l__xeCJK_begin_int=\count179
+\l__xeCJK_end_int=\count180
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \makexeCJKactive with sig. '' on line 396.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \makexeCJKinactive with sig. '' on line 398.
+.................................................
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKDeclareCharClass with sig. 's>{\TrimSpaces }mm' on
+. line 580.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__xeCJK_set_char_class_aux:Nnw with sig.
+. 'm>{\SplitArgument {1}{->}}m' on line 601.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \normalspacedchars with sig. 'm' on line 647.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKResetPunctClass with sig. '' on line 658.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKResetCharClass with sig. '' on line 670.
+.................................................
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count181
+\c__xeCJK_CJK_node_dim=\dimen138
+\c__xeCJK_CJK-space_node_dim=\dimen139
+\c__xeCJK_default_node_dim=\dimen140
+\c__xeCJK_default-space_node_dim=\dimen141
+\c__xeCJK_CJK-widow_node_dim=\dimen142
+\c__xeCJK_normalspace_node_dim=\dimen143
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count182
+\l__xeCJK_last_bound_dim=\dimen144
+\l__xeCJK_last_kern_dim=\dimen145
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKnobreak with sig. '' on line 1889.
+.................................................
+\l__xeCJK_widow_penalty_int=\count183
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKDeclareSubCJKBlock with sig. 's>{\TrimSpaces }mm' on
+. line 2084.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKCancelSubCJKBlock with sig. 'sm' on line 2095.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKRestoreSubCJKBlock with sig. 'sm' on line 2104.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetwidth with sig. 'smm' on line 2202.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetkern with sig. 'mmm' on line 2206.
+.................................................
+.................................................
+. xtemplate info: "declare-object-type"
+. 
+. Declaring object type 'xeCJK/punctuation' taking 0 argument(s) on line 2362.
+.................................................
+\l__xeCJK_fixed_punct_width_dim=\dimen146
+\l__xeCJK_mixed_punct_width_dim=\dimen147
+\l__xeCJK_middle_punct_width_dim=\dimen148
+\l__xeCJK_fixed_margin_width_dim=\dimen149
+\l__xeCJK_mixed_margin_width_dim=\dimen150
+\l__xeCJK_middle_margin_width_dim=\dimen151
+\l__xeCJK_bound_punct_width_dim=\dimen152
+\l__xeCJK_bound_margin_width_dim=\dimen153
+\l__xeCJK_margin_minimum_dim=\dimen154
+\l__xeCJK_kerning_total_width_dim=\dimen155
+\l__xeCJK_same_align_margin_dim=\dimen156
+\l__xeCJK_different_align_margin_dim=\dimen157
+\l__xeCJK_kerning_margin_width_dim=\dimen158
+\l__xeCJK_kerning_margin_minimum_dim=\dimen159
+\l__xeCJK_bound_dim=\dimen160
+\l__xeCJK_reverse_bound_dim=\dimen161
+\l__xeCJK_minimum_bound_dim=\dimen162
+\l__xeCJK_kerning_margin_dim=\dimen163
+\l__xeCJK_original_margin_dim=\dimen164
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKDeclarePunctStyle with sig. '>{\TrimSpaces }mm' on
+. line 2942.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKEditPunctStyle with sig. '>{\TrimSpaces }mm' on line
+. 2955.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKfallbackfamilyfont with sig. 'mom' on line 3059.
+.................................................
+\g__xeCJK_family_int=\count184
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKfamily with sig. 't+t-m' on line 3493.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__xeCJK_gobble_CJKfamily:wn with sig. 't+t-m' on line
+. 3558.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__xeCJK_post_arg:w with sig. 'mmmO{}' on line 3618.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKmainfont with sig. 'om' on line 3624.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKsansfont with sig. 'om' on line 3631.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKmonofont with sig. 'om' on line 3637.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKfamilyfont with sig. 'mom' on line 3648.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newCJKfontfamily with sig. 'omom' on line 3658.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKfontspec with sig. 'om' on line 3664.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultCJKfontfeatures with sig. 'm' on line 3687.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addCJKfontfeatures with sig. 'sO{}m' on line 3693.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setCJKmathfont with sig. 'om' on line 3870.
+.................................................
+\l__xeCJK_fam_int=\count185
+\g__xeCJK_fam_allocation_int=\count186
+\l__xeCJK_verb_case_int=\count187
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKVerbAddon with sig. '' on line 4117.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKOffVerbAddon with sig. '' on line 4121.
+.................................................
+\l__xeCJK_verb_exspace_skip=\skip55
+
+(c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2018/07/30 vv2.6h Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2018/07/30 vv2.6h Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count188
+\l__fontspec_language_int=\count189
+\l__fontspec_strnum_int=\count190
+\l__fontspec_tmp_int=\count191
+\l__fontspec_em_int=\count192
+\l__fontspec_emdef_int=\count193
+\l__fontspec_strong_int=\count194
+\l__fontspec_strongdef_int=\count195
+\l__fontspec_tmpa_dim=\dimen165
+\l__fontspec_tmpb_dim=\dimen166
+\l__fontspec_tmpc_dim=\dimen167
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 561.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 566.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 571.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 576.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 580.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 584.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 588.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 592.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 596.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 600.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \renewfontfamily with sig. 'mO{}mO{}' on line 604.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setfontfamily with sig. 'mO{}mO{}' on line 608.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 612.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 619.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 623.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeature with sig. 'm' on line 627.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 631.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 635.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 639.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 643.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 647.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 651.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 655.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 659.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontExtensions with sig. 'm' on line 663.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 667.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3655.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3661.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3667.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3673.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3679.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3704.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3710.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareAccent with sig. 'm' on line 3716.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3722.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3729.
+.................................................
+
+(c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3910.
+LaTeX Info: Redefining \slshape on input line 3915.
+LaTeX Info: Redefining \scshape on input line 3920.
+LaTeX Info: Redefining \upshape on input line 3925.
+LaTeX Info: Redefining \em on input line 3955.
+LaTeX Info: Redefining \emph on input line 3980.
+LaTeX Info: Redefining \- on input line 4034.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 4129.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 4133.
+.................................................
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetup with sig. '+m' on line 4422.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetemboldenfactor with sig. 'm' on line 4424.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetslantfactor with sig. 'm' on line 4426.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \punctstyle with sig. 'm' on line 4427.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKplainchr with sig. '' on line 4428.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKsetecglue with sig. 'm' on line 4429.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKspace with sig. '' on line 4431.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CJKnospace with sig. '' on line 4432.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKallowbreakbetweenpuncts with sig. '' on line 4434.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKnobreakbetweenpuncts with sig. '' on line 4436.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKenablefallback with sig. '' on line 4438.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKdisablefallback with sig. '' on line 4440.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKsetcharclass with sig. 'mmm' on line 4445.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \fontfamily with sig. 'm' on line 4628.
+.................................................
+
+(c:/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2018/04/30 v3.7.1 Configuration file for xeCJK package
+))
+(c:/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2018/04/30 v3.7.1 xeCJK font effect
+
+(c:/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box43
+\UL@hyphenbox=\box44
+\UL@skip=\skip56
+\UL@hook=\toks14
+\UL@height=\dimen168
+\UL@pe=\count196
+\UL@pixel=\dimen169
+\ULC@box=\box45
+Package: ulem 2012/05/18
+\ULdepth=\dimen170
+)
+(c:/texlive/2018/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(c:/texlive/2018/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks15
+)
+(c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+\CJK@fntefSkip=\skip57
+\CJK@nest=\count197
+\CJK@fntefDimen=\dimen171
+\CJK@underdotBox=\box46
+\CJK@ULbox=\box47
+\CJK@underanyskip=\dimen172
+)
+\l__xeCJK_space_skip=\skip58
+\c__xeCJK_ulem-begin_node_dim=\dimen173
+\c__xeCJK_null_box=\box48
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xeCJKfntefon with sig. 'st-so' on line 657.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderline with sig. 'st-so' on line 673.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \varCJKunderline with sig. '' on line 675.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderwave with sig. 'st-so' on line 685.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderdblline with sig. 'st-so' on line 709.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKsout with sig. 'st-so' on line 728.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKxout with sig. 'st-so' on line 745.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderanyline with sig. 'st-somm' on line 766.
+.................................................
+\l__xeCJK_fntef_box=\box49
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderanysymbol with sig. 'ommm' on line 940.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \CJKunderdot with sig. 'om' on line 949.
+.................................................
+\l__xeCJK_under_symbol_box=\box50
+.................................................
+. LaTeX info: "xparse/redefine-environment"
+. 
+. Redefining environment 'CJKfilltwosides' with sig. 'O{c}m' on line 1053.
+.................................................
+\c__xeCJK_filll_skip=\skip59
+)
+\ccwd=\dimen174
+\l__ctex_ccglue_skip=\skip60
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ctexset with sig. '' on line 377.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXsetup with sig. '+o>{\TrimSpaces }m' on line 383.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXoptions with sig. '+o' on line 389.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXsetfont with sig. '' on line 407.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ziju with sig. 'm' on line 479.
+.................................................
+\l__ctex_ziju_dim=\dimen175
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXindent with sig. '' on line 520.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXnoindent with sig. '' on line 526.
+.................................................
+
+(c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumber with sig. '+o+m' on line 50.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumberwithoptions with sig. '+m+m' on line 57.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnum with sig. '+o+m' on line 111.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumwithoptions with sig. '+m+m' on line 118.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdig with sig. '+o+m' on line 295.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigwithoptions with sig. '+m+m' on line 302.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigits with sig. '+s+o+m' on line 316.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigitswithoptions with sig. '+m+m+m' on line 323.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdate with sig. '+s+m' on line 382.
+.................................................
+\l__zhnum_scale_int=\count198
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumExtendScaleMap with sig. '>{\TrimSpaces }+o+m' on
+. line 504.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumsetup with sig. '+m' on line 934.
+.................................................
+
+(c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2018/01/28 v2.6 Chinese numerals with UTF8 encoding
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXnumber with sig. 'mm' on line 543.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXdigits with sig. 'mm' on line 545.
+.................................................
+
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2018/05/02 v2.4.14 Chinese scheme for generic (CT
+EX)
+
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2018/05/02 v2.4.14 Caption with encoding UTF8 (CTEX)
+))
+(c:/texlive/2018/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zihao with sig. 'm' on line 642.
+.................................................
+
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2018/05/02 v2.4.14 c5size option (CTEX)
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTeX with sig. '' on line 746.
+.................................................
+
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2018/05/02 v2.4.14 Windows fonts definition (CTE
+X)
+
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+File: ctex-fontset-windowsnew.def 2018/05/02 v2.4.14 Windows fonts definition f
+or Vista or later version (CTEX)
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "KaiTi/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimHei/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimSun/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimSun(0)' created for font 'SimSun' with options
+. [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"SimSun/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.: <->"SimHei/OT:script=hani;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.: <->"KaiTi/OT:script=hani;language=DFLT;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \songti with sig. '' on line 111.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \heiti with sig. '' on line 112.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fangsong with sig. '' on line 113.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \kaishu with sig. '' on line 114.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \lishu with sig. '' on line 115.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \youyuan with sig. '' on line 116.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \yahei with sig. '' on line 117.
+.................................................
+))) (c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2018/05/02 v2.4.14 Configuration file (CTEX)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count199
+\calc@Bcount=\count266
+\calc@Adimen=\dimen176
+\calc@Bdimen=\dimen177
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count267
+\calc@Cskip=\skip63
+)
+(c:/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+))
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+)
+\Gin@req@height=\dimen178
+\Gin@req@width=\dimen179
+)
+\AM@pagewidth=\dimen180
+\AM@pageheight=\dimen181
+
+(c:/texlive/2018/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2017/10/31 v0.5l Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box51
+\AM@global@opts=\toks17
+\AM@toc@title=\toks18
+\c@AM@survey=\count268
+\AM@templatesizebox=\box52
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen182
+))
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen183
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count269
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count270
+\leftroot@=\count271
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count272
+\DOTSCASE@=\count273
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen184
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count274
+\c@MaxMatrixCols=\count275
+\dotsspace@=\muskip17
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks20
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks21
+\eqnshift@=\dimen185
+\alignsep@=\dimen186
+\tagshift@=\dimen187
+\tagwidth@=\dimen188
+\totwidth@=\dimen189
+\lineht@=\dimen190
+\@envbody=\toks22
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count281
+\Gm@cntv=\count282
+\c@Gm@tempcnt=\count283
+\Gm@bindingoffset=\dimen191
+\Gm@wd@mp=\dimen192
+\Gm@odd@mp=\dimen193
+\Gm@even@mp=\dimen194
+\Gm@layoutwidth=\dimen195
+\Gm@layoutheight=\dimen196
+\Gm@layouthoffset=\dimen197
+\Gm@layoutvoffset=\dimen198
+\Gm@dimlist=\toks24
+)
+(c:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count284
+\lst@gtempboxa=\box55
+\lst@token=\toks25
+\lst@length=\count285
+\lst@currlwidth=\dimen199
+\lst@column=\count286
+\lst@pos=\count287
+\lst@lostspace=\dimen256
+\lst@width=\dimen257
+\lst@newlines=\count288
+\lst@lineno=\count289
+\lst@maxwidth=\dimen258
+
+(c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count290
+\lst@skipnumbers=\count291
+\lst@framebox=\box56
+)
+(c:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+(c:/texlive/2018/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
+
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(c:/texlive/2018/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2017/07/08 v1.3.1 fvextra - extensions and patches for fancyvr
+b
+
+(c:/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count292
+)
+(c:/texlive/2018/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count293
+\FV@InFile=\read2
+\FV@TabBox=\box57
+\c@FancyVerbLine=\count294
+\FV@StepNumber=\count295
+\FV@OutFile=\write3
+) (c:/texlive/2018/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+))
+(c:/texlive/2018/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
+\linenopenalty=\count296
+\output=\toks26
+\linenoprevgraf=\count297
+\linenumbersep=\dimen259
+\linenumberwidth=\dimen260
+\c@linenumber=\count298
+\c@pagewiselinenumber=\count299
+\c@LN@truepage=\count300
+\c@internallinenumber=\count301
+\c@internallinenumbers=\count302
+\quotelinenumbersep=\dimen261
+\bframerule=\dimen262
+\bframesep=\dimen263
+\bframebox=\box58
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count303
+\c@FV@TrueTabCounter=\count304
+\FV@TabBox@Group=\box59
+\FV@TmpLength=\skip67
+\c@FV@HighlightLinesStart=\count305
+\c@FV@HighlightLinesStop=\count306
+\FV@LoopCount=\count307
+\FV@NCharsBox=\box60
+\FV@BreakIndent=\dimen264
+\FV@BreakIndentNChars=\count308
+\FV@BreakSymbolSepLeft=\dimen265
+\FV@BreakSymbolSepLeftNChars=\count309
+\FV@BreakSymbolSepRight=\dimen266
+\FV@BreakSymbolSepRightNChars=\count310
+\FV@BreakSymbolIndentLeft=\dimen267
+\FV@BreakSymbolIndentLeftNChars=\count311
+\FV@BreakSymbolIndentRight=\dimen268
+\FV@BreakSymbolIndentRightNChars=\count312
+\c@FancyVerbLineBreakLast=\count313
+\FV@LineBox=\box61
+\FV@LineIndentBox=\box62
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 67.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
+))
+(c:/texlive/2018/texmf-dist/tex/generic/xstring/xstring.sty
+(c:/texlive/2018/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count314
+\decimalpart=\count315
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip68
+\fb@frw=\dimen269
+\fb@frh=\dimen270
+\FrameRule=\dimen271
+\FrameSep=\dimen272
+)
+(c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count316
+\float@exts=\toks27
+\float@box=\box63
+\@float@everytoks=\toks28
+\@floatcapt=\box64
+)
+\minted@appexistsfile=\read3
+\minted@bgbox=\box65
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count317
+\c@minted@pygmentizecounter=\count318
+\@float@every@listing=\toks29
+\c@listing=\count319
+)
+runsystem(if not exist _minted-full mkdir _minted-full)...executed.
+
+
+(c:/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box66
+\beforetitleunit=\skip69
+\aftertitleunit=\skip70
+\ttl@plus=\dimen273
+\ttl@minus=\dimen274
+\ttl@toksa=\toks30
+\titlewidth=\dimen275
+\titlewidthlast=\dimen276
+\titlewidthfirst=\dimen277
+)
+(c:/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip71
+\f@nch@O@elh=\skip72
+\f@nch@O@erh=\skip73
+\f@nch@O@olh=\skip74
+\f@nch@O@orh=\skip75
+\f@nch@O@elf=\skip76
+\f@nch@O@erf=\skip77
+\f@nch@O@olf=\skip78
+\f@nch@O@orf=\skip79
+)
+(c:/texlive/2018/texmf-dist/tex/latex/dingbat/dingbat.sty
+Package: dingbat 2001/04/27 v1.00 Hands and other dingbats
+)
+(c:/texlive/2018/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
+
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+\c@abspage=\count320
+Package zref Info: New property: abspage on input line 62.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip80
+\c@mdf@globalstyle@cnt=\count321
+\mdf@skipabove@length=\skip81
+\mdf@skipbelow@length=\skip82
+\mdf@leftmargin@length=\skip83
+\mdf@rightmargin@length=\skip84
+\mdf@innerleftmargin@length=\skip85
+\mdf@innerrightmargin@length=\skip86
+\mdf@innertopmargin@length=\skip87
+\mdf@innerbottommargin@length=\skip88
+\mdf@splittopskip@length=\skip89
+\mdf@splitbottomskip@length=\skip90
+\mdf@outermargin@length=\skip91
+\mdf@innermargin@length=\skip92
+\mdf@linewidth@length=\skip93
+\mdf@innerlinewidth@length=\skip94
+\mdf@middlelinewidth@length=\skip95
+\mdf@outerlinewidth@length=\skip96
+\mdf@roundcorner@length=\skip97
+\mdf@footenotedistance@length=\skip98
+\mdf@userdefinedwidth@length=\skip99
+\mdf@needspace@length=\skip100
+\mdf@frametitleaboveskip@length=\skip101
+\mdf@frametitlebelowskip@length=\skip102
+\mdf@frametitlerulewidth@length=\skip103
+\mdf@frametitleleftmargin@length=\skip104
+\mdf@frametitlerightmargin@length=\skip105
+\mdf@shadowsize@length=\skip106
+\mdf@extratopheight@length=\skip107
+\mdf@subtitleabovelinewidth@length=\skip108
+\mdf@subtitlebelowlinewidth@length=\skip109
+\mdf@subtitleaboveskip@length=\skip110
+\mdf@subtitlebelowskip@length=\skip111
+\mdf@subtitleinneraboveskip@length=\skip112
+\mdf@subtitleinnerbelowskip@length=\skip113
+\mdf@subsubtitleabovelinewidth@length=\skip114
+\mdf@subsubtitlebelowlinewidth@length=\skip115
+\mdf@subsubtitleaboveskip@length=\skip116
+\mdf@subsubtitlebelowskip@length=\skip117
+\mdf@subsubtitleinneraboveskip@length=\skip118
+\mdf@subsubtitleinnerbelowskip@length=\skip119
+
+(c:/texlive/2018/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box67
+\mdf@footnotebox=\box68
+\mdf@splitbox@one=\box69
+\mdf@splitbox@two=\box70
+\mdf@splitbox@save=\box71
+\mdfsplitboxwidth=\skip120
+\mdfsplitboxtotalwidth=\skip121
+\mdfsplitboxheight=\skip122
+\mdfsplitboxdepth=\skip123
+\mdfsplitboxtotalheight=\skip124
+\mdfframetitleboxwidth=\skip125
+\mdfframetitleboxtotalwidth=\skip126
+\mdfframetitleboxheight=\skip127
+\mdfframetitleboxdepth=\skip128
+\mdfframetitleboxtotalheight=\skip129
+\mdffootnoteboxwidth=\skip130
+\mdffootnoteboxtotalwidth=\skip131
+\mdffootnoteboxheight=\skip132
+\mdffootnoteboxdepth=\skip133
+\mdffootnoteboxtotalheight=\skip134
+\mdftotallinewidth=\skip135
+\mdfboundingboxwidth=\skip136
+\mdfboundingboxtotalwidth=\skip137
+\mdfboundingboxheight=\skip138
+\mdfboundingboxdepth=\skip139
+\mdfboundingboxtotalheight=\skip140
+\mdf@freevspace@length=\skip141
+\mdf@horizontalwidthofbox@length=\skip142
+\mdf@verticalmarginwhole@length=\skip143
+\mdf@horizontalspaceofbox=\skip144
+\mdfsubtitleheight=\skip145
+\mdfsubsubtitleheight=\skip146
+\c@mdfcountframes=\count322
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newmdtheoremenv with sig. 'O{} m o m o ' on line 601.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
+.................................................
+\mdf@envdepth=\count323
+\c@mdf@env@i=\count324
+\c@mdf@env@ii=\count325
+\c@mdf@zref@counter=\count326
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count327
+\mult@box=\box72
+\multicol@leftmargin=\dimen278
+\c@unbalance=\count328
+\c@collectmore=\count329
+\doublecol@number=\count330
+\multicoltolerance=\count331
+\multicolpretolerance=\count332
+\full@width=\dimen279
+\page@free=\dimen280
+\premulticols=\dimen281
+\postmulticols=\dimen282
+\multicolsep=\skip147
+\multicolbaselineskip=\skip148
+\partial@page=\box73
+\last@line=\box74
+\maxbalancingoverflow=\dimen283
+\mult@rightbox=\box75
+\mult@grightbox=\box76
+\mult@gfirstbox=\box77
+\mult@firstbox=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@columnbadness=\count333
+\c@finalcolumnbadness=\count334
+\last@try=\dimen284
+\multicolovershoot=\dimen285
+\multicolundershoot=\dimen286
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count335
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen287
+\lightrulewidth=\dimen288
+\cmidrulewidth=\dimen289
+\belowrulesep=\dimen290
+\belowbottomsep=\dimen291
+\aboverulesep=\dimen292
+\abovetopsep=\dimen293
+\cmidrulesep=\dimen294
+\cmidrulekern=\dimen295
+\defaultaddspace=\dimen296
+\@cmidla=\count336
+\@cmidlb=\count337
+\@aboverulesep=\dimen297
+\@belowrulesep=\dimen298
+\@thisruleclass=\count338
+\@lastruleclass=\count339
+\@thisrulewidth=\dimen299
+)
+(c:/texlive/2018/texmf-dist/tex/latex/yfonts/yfonts.sty
+Package: yfonts 2003/01/08 v1.3 (WaS)
+LaTeX Info: Composite with undeclared \" in encoding LYG on input line 58.
+)
+*************************************************
+* xeCJK warning: "CJKfamily-redef"
+* 
+* Redefining CJKfamily `\CJKrmdefault' (SimSun(0)).
+*************************************************
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'FandolSong-Regular' does not contain script 'CJK'.
+*************************************************
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "FandolSong-Bold/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "FandolSong-Regular/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FandolSong-Regular(0)' created for font 'FandolSong-Regular'
+. with options [Script={CJK},BoldFont={FandolSong-Bold}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"FandolSong-Regular/OT"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.: <->"FandolSong-Bold/OT"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'bold italic' (bx/it) with NFSS spec.: <->"FandolSong-Regular/BI/OT"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+*************************************************
+* xeCJK warning: "CJKfamily-redef"
+* 
+* Redefining CJKfamily `\CJKttdefault' (FangSong).
+*************************************************
+runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > fu
+ll.aex <nul: /p x=^%~$PATH:i>> full.aex)...executed.
+
+runsystem(del full.aex)...executed.
+
+(c:/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2018/04/30 v3.7.1 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count340
+\l__xeCJK_listings_flag_int=\count341
+) (./full.aux)
+\openout1 = `full.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 89.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 89.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 89.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 89.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 89.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 89.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 89.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 89.
+LaTeX Font Info:    Redeclaring math accent \check on input line 89.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 89.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 89.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 89.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 89.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 89.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 89.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 89.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 89.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 89.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 89.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 89.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 89.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 89.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 89.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 89.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 89.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 89.
+\AtBeginShipoutBox=\box98
+
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
+
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=759.6886pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-59.65836pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=115.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count342
+
+LaTeX Font Warning: Font shape `LYG/ygoth/m/n' in size <26.09749> not available
+
+(Font)              size <24.88> substituted on input line 91.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 91.
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 91.
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+] (./full.toc
+[2
+
+]
+
+LaTeX Font Warning: Font shape `TU/FandolSong-Regular(0)/m/sl' undefined
+(Font)              using `TU/FandolSong-Regular(0)/m/n' instead on input line 
+81.
+
+[3])
+\tf@toc=\write6
+\openout6 = `full.toc'.
+
+ (../source.tex [4] (../source/algebra.tex
+Chapter 1.
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Microsoft YaHei Bold/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Microsoft YaHei/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [Script={CJK},BoldFont={* Bold}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"Microsoft
+. YaHei/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.: <->"Microsoft YaHei
+. Bold/OT:script=hani;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'bold italic' (bx/it) with NFSS spec.: <->"Microsoft
+. YaHei/BI/OT:script=hani;language=DFLT;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+(./_minted-full/default-pyg-prefix.pygstyle) (./_minted-full/xcode.pygstyle)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/algebra/linear-rec
+ursion.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fna
+me) else None; t = f.readlines() if f is not None else None; t_opt = t if t is 
+not None else []; f.close() if f is not None else None; tmpfname = os.path.expa
+nduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"
+UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartn
+um-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt)
+; [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_o
+pt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpf
+name);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/A76AE9421CB1582106129938C0CFB9946462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/A76AE9421CB1582106129938C0CFB9946462872839073A193E3DB0067FC750A
+6.pygtex
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "STXihei/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "STXihei/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "STXihei/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STXihei(0)' created for font 'STXihei' with options
+. [Script={CJK}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"STXihei/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+ [5
+
+
+])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/algebra/FFT_1e9+7.
+cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) els
+e None; t = f.readlines() if f is not None else None; t_opt = t if t is not Non
+e else []; f.close() if f is not None else None; tmpfname = os.path.expanduser(
+os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\")
+ if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if
+ fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.wr
+ite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:])
+ if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);"
+)...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/2E7066702F4FE2C423A59A89BF7560DE6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/2E7066702F4FE2C423A59A89BF7560DE6462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/algebra/FFT.cpp\")
+); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else None
+; t = f.readlines() if f is not None else None; t_opt = t if t is not None else
+ []; f.close() if f is not None else None; tmpfname = os.path.expanduser(os.pat
+h.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") if t 
+is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if fvsta
+rtnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.write(te
+xtwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) if x 
+and t is not None]; f.close() if t is not None else os.remove(tmpfname);")...ex
+ecuted.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/4C9589CBFA10465CB724C7763718C6096462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/4C9589CBFA10465CB724C7763718C6096462872839073A193E3DB0067FC750A
+6.pygtex [6])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/algebra/NTT+CRT.cp
+p\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else 
+None; t = f.readlines() if f is not None else None; t_opt = t if t is not None 
+else []; f.close() if f is not None else None; tmpfname = os.path.expanduser(os
+.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") i
+f t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if f
+vstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.writ
+e(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) i
+f x and t is not None]; f.close() if t is not None else os.remove(tmpfname);").
+..executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/1D0463B311A60B457755D6DC3D0883176462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/1D0463B311A60B457755D6DC3D0883176462872839073A193E3DB0067FC750A
+6.pygtex [7])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/algebra/polynomial
+-inverse.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(f
+name) else None; t = f.readlines() if f is not None else None; t_opt = t if t i
+s not None else []; f.close() if f is not None else None; tmpfname = os.path.ex
+panduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=
+\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstar
+tnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_op
+t); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t
+_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tm
+pfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/D98D79779D9E353459463B890F410CBF6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/D98D79779D9E353459463B890F410CBF6462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/algebra/polynomial
+-divide.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fn
+ame) else None; t = f.readlines() if f is not None else None; t_opt = t if t is
+ not None else []; f.close() if f is not None else None; tmpfname = os.path.exp
+anduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\
+"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstart
+num-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt
+); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_
+opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmp
+fname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/34A6ABCB9C24F10506B47EA5202B74C56462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/34A6ABCB9C24F10506B47EA5202B74C56462872839073A193E3DB0067FC750A
+6.pygtex [8])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/algebra/polynomial
+-expandln.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(
+fname) else None; t = f.readlines() if f is not None else None; t_opt = t if t 
+is not None else []; f.close() if f is not None else None; tmpfname = os.path.e
+xpanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding
+=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvsta
+rtnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_o
+pt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], 
+t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(t
+mpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/2A1B1AE86180E608DE9064C30C262CCA6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/2A1B1AE86180E608DE9064C30C262CCA6462872839073A193E3DB0067FC750A
+6.pygtex [9])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/algebra/FWT.cpp\")
+); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else None
+; t = f.readlines() if f is not None else None; t_opt = t if t is not None else
+ []; f.close() if f is not None else None; tmpfname = os.path.expanduser(os.pat
+h.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") if t 
+is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if fvsta
+rtnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.write(te
+xtwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) if x 
+and t is not None]; f.close() if t is not None else os.remove(tmpfname);")...ex
+ecuted.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/2A7E403F595C69D0A9A07ECA43DCC4836462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/2A7E403F595C69D0A9A07ECA43DCC4836462872839073A193E3DB0067FC750A
+6.pygtex [10])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/algebra/simplex.cp
+p\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else 
+None; t = f.readlines() if f is not None else None; t_opt = t if t is not None 
+else []; f.close() if f is not None else None; tmpfname = os.path.expanduser(os
+.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") i
+f t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if f
+vstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.writ
+e(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) i
+f x and t is not None]; f.close() if t is not None else os.remove(tmpfname);").
+..executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/F251FC4312BDA399D7EE16C51E6B482D6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/F251FC4312BDA399D7EE16C51E6B482D6462872839073A193E3DB0067FC750A
+6.pygtex [11])) [12] (../source/number-theory.tex
+Chapter 2.
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/bigi
+nteger-multiply.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.i
+sfile(fname) else None; t = f.readlines() if f is not None else None; t_opt = t
+ if t is not None else []; f.close() if f is not None else None; tmpfname = os.
+path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", en
+coding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s =
+ fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else l
+en(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[
+s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.re
+move(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/E7BB374AE49FFA37B29EADB2F8E909176462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/E7BB374AE49FFA37B29EADB2F8E909176462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/exte
+nded-euclid.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfil
+e(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if 
+t is not None else []; f.close() if f is not None else None; tmpfname = os.path
+.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encodi
+ng=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvs
+tartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t
+_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e]
+, t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove
+(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/4D1D332593D18343D72BA176188619D06462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/4D1D332593D18343D72BA176188619D06462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/mill
+er-rabin.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(f
+name) else None; t = f.readlines() if f is not None else None; t_opt = t if t i
+s not None else []; f.close() if f is not None else None; tmpfname = os.path.ex
+panduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=
+\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstar
+tnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_op
+t); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t
+_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tm
+pfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/D587D388F5E89B577794FA4C56B19A486462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/D587D388F5E89B577794FA4C56B19A486462872839073A193E3DB0067FC750A
+6.pygtex [13
+
+
+])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/poll
+ard-rho.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fn
+ame) else None; t = f.readlines() if f is not None else None; t_opt = t if t is
+ not None else []; f.close() if f is not None else None; tmpfname = os.path.exp
+anduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\
+"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstart
+num-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt
+); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_
+opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmp
+fname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/F7461001A2140FCE55BA26BB00B1D09D6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/F7461001A2140FCE55BA26BB00B1D09D6462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/CRT.
+cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) els
+e None; t = f.readlines() if f is not None else None; t_opt = t if t is not Non
+e else []; f.close() if f is not None else None; tmpfname = os.path.expanduser(
+os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\")
+ if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if
+ fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.wr
+ite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:])
+ if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);"
+)...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/7539B3E02361BEF134B98CC06641C8B06462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/7539B3E02361BEF134B98CC06641C8B06462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/CRT-
+zky.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname)
+ else None; t = f.readlines() if f is not None else None; t_opt = t if t is not
+ None else []; f.close() if f is not None else None; tmpfname = os.path.expandu
+ser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF
+8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-
+1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [
+f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[
+e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfnam
+e);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/FEFC8969EC7CEA2F1338D2236CFACF956462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/FEFC8969EC7CEA2F1338D2236CFACF956462872839073A193E3DB0067FC750A
+6.pygtex [14])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/Pell
+.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) el
+se None; t = f.readlines() if f is not None else None; t_opt = t if t is not No
+ne else []; f.close() if f is not None else None; tmpfname = os.path.expanduser
+(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\"
+) if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 i
+f fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.w
+rite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]
+) if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);
+")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/80E0EC6063EBDAFC85625081C82AAEB66462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/80E0EC6063EBDAFC85625081C82AAEB66462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/Simp
+son.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname)
+ else None; t = f.readlines() if f is not None else None; t_opt = t if t is not
+ None else []; f.close() if f is not None else None; tmpfname = os.path.expandu
+ser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF
+8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-
+1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [
+f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[
+e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfnam
+e);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/857D6BAA218C13449B8B5C876B8264836462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/857D6BAA218C13449B8B5C876B8264836462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/解一元三
+次方程.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname)
+ else None; t = f.readlines() if f is not None else None; t_opt = t if t is not
+ None else []; f.close() if f is not None else None; tmpfname = os.path.expandu
+ser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF
+8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-
+1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [
+f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[
+e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfnam
+e);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6462872839073A193E3DB0067FC750A6.pygtex full.pyg)..
+.executed.
+
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...ed{cpp}{\source/number-theory/解一元三次方程.cpp}
+                                                  
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+[15]
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/inte
+ger-lattice-under-segment.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if
+ os.path.isfile(fname) else None; t = f.readlines() if f is not None else None;
+ t_opt = t if t is not None else []; f.close() if f is not None else None; tmpf
+name = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname,
+ \"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnu
+m = 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum !
+= 0 else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:
+s], t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None 
+else os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/E7FA86CA2C54BC5CB19BBC99DE18ED1C6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/E7FA86CA2C54BC5CB19BBC99DE18ED1C6462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/线性同余
+不等式.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname)
+ else None; t = f.readlines() if f is not None else None; t_opt = t if t is not
+ None else []; f.close() if f is not None else None; tmpfname = os.path.expandu
+ser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF
+8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-
+1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [
+f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[
+e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfnam
+e);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6462872839073A193E3DB0067FC750A6.pygtex full.pyg)..
+.executed.
+
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...ed{cpp}{\source/number-theory/线性同余不等式.cpp}
+                                                  
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/EX-B
+SGS-zzq.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fn
+ame) else None; t = f.readlines() if f is not None else None; t_opt = t if t is
+ not None else []; f.close() if f is not None else None; tmpfname = os.path.exp
+anduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\
+"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstart
+num-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt
+); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_
+opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmp
+fname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/8A53F41C3FA42CD89E0B989C1B0CF2026462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/8A53F41C3FA42CD89E0B989C1B0CF2026462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/EX-B
+SGS-zky.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fn
+ame) else None; t = f.readlines() if f is not None else None; t_opt = t if t is
+ not None else []; f.close() if f is not None else None; tmpfname = os.path.exp
+anduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\
+"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstart
+num-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt
+); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_
+opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmp
+fname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/3116CDA0311C495B42C28FC40CE94EDA6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/3116CDA0311C495B42C28FC40CE94EDA6462872839073A193E3DB0067FC750A
+6.pygtex [16])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/DAC-
+multiply\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname
+) else None; t = f.readlines() if f is not None else None; t_opt = t if t is no
+t None else []; f.close() if f is not None else None; tmpfname = os.path.expand
+user(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UT
+F8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum
+-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); 
+[f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt
+[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfna
+me);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/0CEA2E5327B1B18BFD1F67856016DDB16462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/0CEA2E5327B1B18BFD1F67856016DDB16462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/number-theory/Cnmm
+odP.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname)
+ else None; t = f.readlines() if f is not None else None; t_opt = t if t is not
+ None else []; f.close() if f is not None else None; tmpfname = os.path.expandu
+ser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF
+8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-
+1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [
+f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[
+e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfnam
+e);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/53720509DC9D92A6ED4FE98AA08D2DAA6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/53720509DC9D92A6ED4FE98AA08D2DAA6462872839073A193E3DB0067FC750A
+6.pygtex [17])) [18] (../source/graph-theory.tex
+Chapter 3.
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/basic
+.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) el
+se None; t = f.readlines() if f is not None else None; t_opt = t if t is not No
+ne else []; f.close() if f is not None else None; tmpfname = os.path.expanduser
+(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\"
+) if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 i
+f fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.w
+rite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]
+) if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);
+")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/91EA68F60E8FEDB290AB2C7DA3EA2E936462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/91EA68F60E8FEDB290AB2C7DA3EA2E936462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/Bicon
+nected-Point-Component -zzq.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") 
+if os.path.isfile(fname) else None; t = f.readlines() if f is not None else Non
+e; t_opt = t if t is not None else []; f.close() if f is not None else None; tm
+pfname = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfnam
+e, \"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstop
+num = 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum
+ != 0 else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[
+0:s], t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not Non
+e else os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/D56A77BAD6535C251DE571DB85A406516462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/D56A77BAD6535C251DE571DB85A406516462872839073A193E3DB0067FC750A
+6.pygtex [19
+
+
+])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/Bicon
+nected-Edge-Component -zzq.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") i
+f os.path.isfile(fname) else None; t = f.readlines() if f is not None else None
+; t_opt = t if t is not None else []; f.close() if f is not None else None; tmp
+fname = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname
+, \"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopn
+um = 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum 
+!= 0 else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0
+:s], t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None
+ else os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/3B15690E009F9FA3BAB17DBDA6D20D286462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/3B15690E009F9FA3BAB17DBDA6D20D286462872839073A193E3DB0067FC750A
+6.pygtex [20])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/bicon
+nected-graph-vertex -jzh.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if 
+os.path.isfile(fname) else None; t = f.readlines() if f is not None else None; 
+t_opt = t if t is not None else []; f.close() if f is not None else None; tmpfn
+ame = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, 
+\"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum
+ = 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum !=
+ 0 else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s
+], t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None e
+lse os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/A98BF5DEDBF6F69DACF25ABE277BF9746462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/A98BF5DEDBF6F69DACF25ABE277BF9746462872839073A193E3DB0067FC750A
+6.pygtex [21])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/bicon
+nected-graph-edge -jzh.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os
+.path.isfile(fname) else None; t = f.readlines() if f is not None else None; t_
+opt = t if t is not None else []; f.close() if f is not None else None; tmpfnam
+e = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"
+w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum =
+ 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0
+ else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s],
+ t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None els
+e os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/1A58D094BC48929266DC21E5771F915C6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/1A58D094BC48929266DC21E5771F915C6462872839073A193E3DB0067FC750A
+6.pygtex [22])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/two-s
+atisfiability.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isf
+ile(fname) else None; t = f.readlines() if f is not None else None; t_opt = t i
+f t is not None else []; f.close() if f is not None else None; tmpfname = os.pa
+th.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", enco
+ding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = f
+vstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len
+(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:
+e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remo
+ve(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/761E20203ECBA5C0891DA231747567116462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/761E20203ECBA5C0891DA231747567116462872839073A193E3DB0067FC750A
+6.pygtex [23])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/Hopcr
+oft-Karp.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(f
+name) else None; t = f.readlines() if f is not None else None; t_opt = t if t i
+s not None else []; f.close() if f is not None else None; tmpfname = os.path.ex
+panduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=
+\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstar
+tnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_op
+t); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t
+_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tm
+pfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6CF49B944DCFF1EE77534A958D18761F6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/6CF49B944DCFF1EE77534A958D18761F6462872839073A193E3DB0067FC750A
+6.pygtex [24])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/gener
+al-matching.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfil
+e(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if 
+t is not None else []; f.close() if f is not None else None; tmpfname = os.path
+.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encodi
+ng=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvs
+tartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t
+_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e]
+, t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove
+(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/B1BE349542971675AD2C5C56F3ECB9786462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/B1BE349542971675AD2C5C56F3ECB9786462872839073A193E3DB0067FC750A
+6.pygtex [25])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/weigh
+ted_blossom.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfil
+e(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if 
+t is not None else []; f.close() if f is not None else None; tmpfname = os.path
+.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encodi
+ng=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvs
+tartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t
+_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e]
+, t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove
+(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/D7B3DE59FAE64767FE68F985936B2DB46462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/D7B3DE59FAE64767FE68F985936B2DB46462872839073A193E3DB0067FC750A
+6.pygtex [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/roote
+d-tree-isomorphism.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pat
+h.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt 
+= t if t is not None else []; f.close() if f is not None else None; tmpfname = 
+os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\",
+ encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; 
+s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 els
+e len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_o
+pt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os
+.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/1938E197E1943936E9A88CB9D6E8649D6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/1938E197E1943936E9A88CB9D6E8649D6462872839073A193E3DB0067FC750A
+6.pygtex [30])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/Stoer
+Wagner_O(V^3).cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isf
+ile(fname) else None; t = f.readlines() if f is not None else None; t_opt = t i
+f t is not None else []; f.close() if f is not None else None; tmpfname = os.pa
+th.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", enco
+ding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = f
+vstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len
+(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:
+e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remo
+ve(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6D93798542AD767F4C32B71F0EF3726C6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...ource/graph-theory/StoerWagner_O(V^3).cpp}
+                                                  
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/domin
+ator.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname
+) else None; t = f.readlines() if f is not None else None; t_opt = t if t is no
+t None else []; f.close() if f is not None else None; tmpfname = os.path.expand
+user(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UT
+F8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum
+-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); 
+[f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt
+[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfna
+me);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/F93E3C019150B7D30561B043F1AF66146462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/F93E3C019150B7D30561B043F1AF66146462872839073A193E3DB0067FC750A
+6.pygtex [31])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/Kth-m
+inimum-path.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfil
+e(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if 
+t is not None else []; f.close() if f is not None else None; tmpfname = os.path
+.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encodi
+ng=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvs
+tartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t
+_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e]
+, t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove
+(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/1770FC5B6A940717757B18FF0FC6E6DC6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/1770FC5B6A940717757B18FF0FC6E6DC6462872839073A193E3DB0067FC750A
+6.pygtex [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/Maxim
+umClique.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(f
+name) else None; t = f.readlines() if f is not None else None; t_opt = t if t i
+s not None else []; f.close() if f is not None else None; tmpfname = os.path.ex
+panduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=
+\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstar
+tnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_op
+t); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t
+_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tm
+pfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/EFE83C79E6235ECF36D918BDE963ACE36462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/EFE83C79E6235ECF36D918BDE963ACE36462872839073A193E3DB0067FC750A
+6.pygtex [35])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/极大团计数
+.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) el
+se None; t = f.readlines() if f is not None else None; t_opt = t if t is not No
+ne else []; f.close() if f is not None else None; tmpfname = os.path.expanduser
+(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\"
+) if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 i
+f fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.w
+rite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]
+) if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);
+")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6462872839073A193E3DB0067FC750A6.pygtex full.pyg)..
+.executed.
+
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...inted{cpp}{\source/graph-theory/极大团计数.cpp}
+                                                  
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/euler
+-tour.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fnam
+e) else None; t = f.readlines() if f is not None else None; t_opt = t if t is n
+ot None else []; f.close() if f is not None else None; tmpfname = os.path.expan
+duser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"U
+TF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnu
+m-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt);
+ [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_op
+t[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfn
+ame);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/B5BB51D020E6A7AB457BFF70264623716462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/B5BB51D020E6A7AB457BFF70264623716462872839073A193E3DB0067FC750A
+6.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/graph-theory/minim
+um_arborescence.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.i
+sfile(fname) else None; t = f.readlines() if f is not None else None; t_opt = t
+ if t is not None else []; f.close() if f is not None else None; tmpfname = os.
+path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", en
+coding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s =
+ fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else l
+en(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[
+s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.re
+move(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6337562C616D31E4428D496563B61B086462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/6337562C616D31E4428D496563B61B086462872839073A193E3DB0067FC750A
+6.pygtex [37])) [38] (../source/data-structure.tex
+Chapter 4.
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/data-structure/Kd-
+tree.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname
+) else None; t = f.readlines() if f is not None else None; t_opt = t if t is no
+t None else []; f.close() if f is not None else None; tmpfname = os.path.expand
+user(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UT
+F8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum
+-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); 
+[f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt
+[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfna
+me);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/CECD90BFFFB69AB5E1DBD3CB28670EF86462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/CECD90BFFFB69AB5E1DBD3CB28670EF86462872839073A193E3DB0067FC750A
+6.pygtex [39
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/data-structure/LCT
+.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) el
+se None; t = f.readlines() if f is not None else None; t_opt = t if t is not No
+ne else []; f.close() if f is not None else None; tmpfname = os.path.expanduser
+(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\"
+) if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 i
+f fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.w
+rite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]
+) if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);
+")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/5B5D043DFAEF170B19A37C0F8CD71F726462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/5B5D043DFAEF170B19A37C0F8CD71F726462872839073A193E3DB0067FC750A
+6.pygtex [42])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/data-structure/fen
+wicktree_kth.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfi
+le(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if
+ t is not None else []; f.close() if f is not None else None; tmpfname = os.pat
+h.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encod
+ing=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fv
+startnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(
+t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e
+], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remov
+e(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/2689CFA17A65FA6EB16C6CDFC5B288646462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/2689CFA17A65FA6EB16C6CDFC5B288646462872839073A193E3DB0067FC750A
+6.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/data-structure/Tre
+ap.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) 
+else None; t = f.readlines() if f is not None else None; t_opt = t if t is not 
+None else []; f.close() if f is not None else None; tmpfname = os.path.expandus
+er(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8
+\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1
+ if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f
+.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e
+:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfname
+);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/BD0CA75587FD585A744E5BCEDF6944EF6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/BD0CA75587FD585A744E5BCEDF6944EF6462872839073A193E3DB0067FC750A
+6.pygtex [44])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/data-structure/fhq
+Treap.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fnam
+e) else None; t = f.readlines() if f is not None else None; t_opt = t if t is n
+ot None else []; f.close() if f is not None else None; tmpfname = os.path.expan
+duser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"U
+TF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnu
+m-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt);
+ [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_op
+t[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfn
+ame);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/A2B3642216A3CEDA10D1B6F6F05438A56462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/A2B3642216A3CEDA10D1B6F6F05438A56462872839073A193E3DB0067FC750A
+6.pygtex [45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/data-structure/tru
+e.fhqtreap.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile
+(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if t
+ is not None else []; f.close() if f is not None else None; tmpfname = os.path.
+expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encodin
+g=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvst
+artnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_
+opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e],
+ t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(
+tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/4F82CFF09918D83A8B920A8545B28FD16462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/4F82CFF09918D83A8B920A8545B28FD16462872839073A193E3DB0067FC750A
+6.pygtex [47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/data-structure/mo-
+team-on-tree.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfi
+le(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if
+ t is not None else []; f.close() if f is not None else None; tmpfname = os.pat
+h.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encod
+ing=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fv
+startnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(
+t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e
+], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remov
+e(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/E89D9BD3EE8E3006828EE74165B53F386462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/E89D9BD3EE8E3006828EE74165B53F386462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/data-structure/vir
+tual-tree.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(
+fname) else None; t = f.readlines() if f is not None else None; t_opt = t if t 
+is not None else []; f.close() if f is not None else None; tmpfname = os.path.e
+xpanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding
+=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvsta
+rtnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_o
+pt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], 
+t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(t
+mpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/4A85D1F369E68D988D70785152D37E086462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/4A85D1F369E68D988D70785152D37E086462872839073A193E3DB0067FC750A
+6.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49]))
+[50] (../source/string.tex
+Chapter 5.
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/string/manacher.cp
+p\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else 
+None; t = f.readlines() if f is not None else None; t_opt = t if t is not None 
+else []; f.close() if f is not None else None; tmpfname = os.path.expanduser(os
+.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") i
+f t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if f
+vstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.writ
+e(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) i
+f x and t is not None]; f.close() if t is not None else os.remove(tmpfname);").
+..executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/439586A2867AF3E7660FF997DA91CB5E6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/439586A2867AF3E7660FF997DA91CB5E6462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/string/PalindromeA
+utomaton_pointer.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.
+isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt = 
+t if t is not None else []; f.close() if f is not None else None; tmpfname = os
+.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", e
+ncoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s 
+= fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else 
+len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt
+[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.r
+emove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/8A9D0DE72C7A760DEEC4907C6C07E12C6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/8A9D0DE72C7A760DEEC4907C6C07E12C6462872839073A193E3DB0067FC750A
+6.pygtex [51
+
+
+])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/string/SA.cpp\"));
+ f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else None; 
+t = f.readlines() if f is not None else None; t_opt = t if t is not None else [
+]; f.close() if f is not None else None; tmpfname = os.path.expanduser(os.path.
+expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") if t is
+ not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if fvstart
+num != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.write(text
+wrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) if x an
+d t is not None]; f.close() if t is not None else os.remove(tmpfname);")...exec
+uted.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/2A91EA089145A4A2FC9A9CC74F00B6606462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/2A91EA089145A4A2FC9A9CC74F00B6606462872839073A193E3DB0067FC750A
+6.pygtex [52])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/string/min_express
+.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) el
+se None; t = f.readlines() if f is not None else None; t_opt = t if t is not No
+ne else []; f.close() if f is not None else None; tmpfname = os.path.expanduser
+(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\"
+) if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 i
+f fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.w
+rite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]
+) if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);
+")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/431F715988FCCAECBCE2D8C2333399C26462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/431F715988FCCAECBCE2D8C2333399C26462872839073A193E3DB0067FC750A
+6.pygtex)) [53] [54
+
+] (../source/computational-geometry.tex
+Chapter 6.
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/point.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile
+(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if t
+ is not None else []; f.close() if f is not None else None; tmpfname = os.path.
+expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encodin
+g=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvst
+artnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_
+opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e],
+ t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(
+tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/DF7D03758D02A1E7A60DC37DBB5666E86462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/DF7D03758D02A1E7A60DC37DBB5666E86462872839073A193E3DB0067FC750A
+6.pygtex [55
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/circle.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfil
+e(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if 
+t is not None else []; f.close() if f is not None else None; tmpfname = os.path
+.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encodi
+ng=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvs
+tartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t
+_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e]
+, t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove
+(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/C78F673C60D74E87FB38EEA499D68F7C6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/C78F673C60D74E87FB38EEA499D68F7C6462872839073A193E3DB0067FC750A
+6.pygtex [57])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/point-in-polygon.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.
+path.isfile(fname) else None; t = f.readlines() if f is not None else None; t_o
+pt = t if t is not None else []; f.close() if f is not None else None; tmpfname
+ = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w
+\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 
+0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 
+else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], 
+t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else
+ os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/FA9A0000A82D00D336CC57748F219B046462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/FA9A0000A82D00D336CC57748F219B046462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/mincir.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfil
+e(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if 
+t is not None else []; f.close() if f is not None else None; tmpfname = os.path
+.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encodi
+ng=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvs
+tartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t
+_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e]
+, t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove
+(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/9D1FE659E7C852D88E500DE79869A7C76462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/9D1FE659E7C852D88E500DE79869A7C76462872839073A193E3DB0067FC750A
+6.pygtex [58])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/circle_union.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path
+.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt =
+ t if t is not None else []; f.close() if f is not None else None; tmpfname = o
+s.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", 
+encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s
+ = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else
+ len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_op
+t[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.
+remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/5581B3161F8C086D7836EDF04B8E99FC6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/5581B3161F8C086D7836EDF04B8E99FC6462872839073A193E3DB0067FC750A
+6.pygtex [59]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [60]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/Apollonius_Circle.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os
+.path.isfile(fname) else None; t = f.readlines() if f is not None else None; t_
+opt = t if t is not None else []; f.close() if f is not None else None; tmpfnam
+e = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"
+w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum =
+ 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0
+ else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s],
+ t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None els
+e os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/F70BD7E683FC2C4B6A1371FED33983396462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/F70BD7E683FC2C4B6A1371FED33983396462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/halfplaneintersection.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") i
+f os.path.isfile(fname) else None; t = f.readlines() if f is not None else None
+; t_opt = t if t is not None else []; f.close() if f is not None else None; tmp
+fname = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname
+, \"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopn
+um = 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum 
+!= 0 else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0
+:s], t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None
+ else os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/8FD8F80E5E1E5A4BA61263BFA8E34AC06462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/8FD8F80E5E1E5A4BA61263BFA8E34AC06462872839073A193E3DB0067FC750A
+6.pygtex [62])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/convex-hull.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.
+isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt = 
+t if t is not None else []; f.close() if f is not None else None; tmpfname = os
+.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", e
+ncoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s 
+= fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else 
+len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt
+[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.r
+emove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/DE8E421E06AB14F8329B0294E356E0046462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/DE8E421E06AB14F8329B0294E356E0046462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/PlayWithConvex.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pa
+th.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt
+ = t if t is not None else []; f.close() if f is not None else None; tmpfname =
+ os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\"
+, encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0;
+ s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 el
+se len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_
+opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else o
+s.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/2A96DF8EBDD5C87CDA3E8F4D9AF259786462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/2A96DF8EBDD5C87CDA3E8F4D9AF259786462872839073A193E3DB0067FC750A
+6.pygtex [63]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/closest-pair-of-points.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") 
+if os.path.isfile(fname) else None; t = f.readlines() if f is not None else Non
+e; t_opt = t if t is not None else []; f.close() if f is not None else None; tm
+pfname = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfnam
+e, \"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstop
+num = 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum
+ != 0 else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[
+0:s], t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not Non
+e else os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/EE26B50BD510FA5CFF95778BE48686E16462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/EE26B50BD510FA5CFF95778BE48686E16462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/area_union.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.i
+sfile(fname) else None; t = f.readlines() if f is not None else None; t_opt = t
+ if t is not None else []; f.close() if f is not None else None; tmpfname = os.
+path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", en
+coding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s =
+ fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else l
+en(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[
+s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.re
+move(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/3F8E863E6AC613F66F216706E72685B26462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/3F8E863E6AC613F66F216706E72685B26462872839073A193E3DB0067FC750A
+6.pygtex [65]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/farmland.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isf
+ile(fname) else None; t = f.readlines() if f is not None else None; t_opt = t i
+f t is not None else []; f.close() if f is not None else None; tmpfname = os.pa
+th.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", enco
+ding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = f
+vstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len
+(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:
+e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remo
+ve(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/A17375FD1EE3EBF51FE6D69E2AF4B5C56462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/A17375FD1EE3EBF51FE6D69E2AF4B5C56462872839073A193E3DB0067FC750A
+6.pygtex [67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/3DGeo.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile
+(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if t
+ is not None else []; f.close() if f is not None else None; tmpfname = os.path.
+expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encodin
+g=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvst
+artnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_
+opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e],
+ t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(
+tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6F1E7F757D8C0B1FBC4E9ECA401E4DE46462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/6F1E7F757D8C0B1FBC4E9ECA401E4DE46462872839073A193E3DB0067FC750A
+6.pygtex [69]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/3DConvex.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isf
+ile(fname) else None; t = f.readlines() if f is not None else None; t_opt = t i
+f t is not None else []; f.close() if f is not None else None; tmpfname = os.pa
+th.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", enco
+ding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = f
+vstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len
+(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:
+e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remo
+ve(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/BAFFBE9B62302A06E9B98624A1E3747B6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/BAFFBE9B62302A06E9B98624A1E3747B6462872839073A193E3DB0067FC750A
+6.pygtex [71])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/DelaunayTriangulation.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") i
+f os.path.isfile(fname) else None; t = f.readlines() if f is not None else None
+; t_opt = t if t is not None else []; f.close() if f is not None else None; tmp
+fname = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname
+, \"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopn
+um = 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum 
+!= 0 else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0
+:s], t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None
+ else os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/93413C3D94F13BA3D1E95FE5405B86896462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/93413C3D94F13BA3D1E95FE5405B86896462872839073A193E3DB0067FC750A
+6.pygtex [72]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/minimum-coverage-ball.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") i
+f os.path.isfile(fname) else None; t = f.readlines() if f is not None else None
+; t_opt = t if t is not None else []; f.close() if f is not None else None; tmp
+fname = os.path.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname
+, \"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopn
+um = 0; s = fvstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum 
+!= 0 else len(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0
+:s], t_opt[s:e], t_opt[e:]) if x and t is not None]; f.close() if t is not None
+ else os.remove(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6A234C29A08A13E1A1DBEF534B2CDE256462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/6A234C29A08A13E1A1DBEF534B2CDE256462872839073A193E3DB0067FC750A
+6.pygtex [74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/computational-geom
+etry/min_ball.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isf
+ile(fname) else None; t = f.readlines() if f is not None else None; t_opt = t i
+f t is not None else []; f.close() if f is not None else None; tmpfname = os.pa
+th.expanduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", enco
+ding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = f
+vstartnum-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len
+(t_opt); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:
+e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remo
+ve(tmpfname);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/7B1DE2129F48631548956EE5C79553506462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/7B1DE2129F48631548956EE5C79553506462872839073A193E3DB0067FC750A
+6.pygtex)) [76] (../source/hints.tex
+Chapter 7.
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/hints/input-accele
+ration.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fna
+me) else None; t = f.readlines() if f is not None else None; t_opt = t if t is 
+not None else []; f.close() if f is not None else None; tmpfname = os.path.expa
+nduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"
+UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartn
+um-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt)
+; [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_o
+pt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpf
+name);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/B746367E7B3A7A323D3B71BF0D90246B6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/B746367E7B3A7A323D3B71BF0D90246B6462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/hints/STL-memory-r
+elease.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fna
+me) else None; t = f.readlines() if f is not None else None; t_opt = t if t is 
+not None else []; f.close() if f is not None else None; tmpfname = os.path.expa
+nduser(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"
+UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartn
+um-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt)
+; [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_o
+pt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpf
+name);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/22F8A6EF7CEF22795E4A065B6852C11E6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/22F8A6EF7CEF22795E4A065B6852C11E6462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/hints/mersenne-twi
+ster.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname
+) else None; t = f.readlines() if f is not None else None; t_opt = t if t is no
+t None else []; f.close() if f is not None else None; tmpfname = os.path.expand
+user(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UT
+F8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum
+-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); 
+[f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt
+[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfna
+me);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/A2255A61CAF76410F75DE584B2A59C9D6462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/A2255A61CAF76410F75DE584B2A59C9D6462872839073A193E3DB0067FC750A
+6.pygtex [77
+
+
+])
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/hints/zeller.cpp\"
+)); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else Non
+e; t = f.readlines() if f is not None else None; t_opt = t if t is not None els
+e []; f.close() if f is not None else None; tmpfname = os.path.expanduser(os.pa
+th.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") if t
+ is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if fvst
+artnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.write(t
+extwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) if x
+ and t is not None]; f.close() if t is not None else os.remove(tmpfname);")...e
+xecuted.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/C4AB4B2E52668463B3AF4DB8033425A36462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/C4AB4B2E52668463B3AF4DB8033425A36462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/hints/openstack.cp
+p\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else 
+None; t = f.readlines() if f is not None else None; t_opt = t if t is not None 
+else []; f.close() if f is not None else None; tmpfname = os.path.expanduser(os
+.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") i
+f t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if f
+vstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.writ
+e(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) i
+f x and t is not None]; f.close() if t is not None else os.remove(tmpfname);").
+..executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/5DB42D85A5057475D99F416CEBF571576462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/5DB42D85A5057475D99F416CEBF571576462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/hints/subset-of-si
+ze-k.cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname
+) else None; t = f.readlines() if f is not None else None; t_opt = t if t is no
+t None else []; f.close() if f is not None else None; tmpfname = os.path.expand
+user(os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UT
+F8\") if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum
+-1 if fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); 
+[f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt
+[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpfna
+me);")...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/9C4515FD168725255791DCE8894FDAA06462872839073A193E3
+DB0067FC750A6.pygtex full.pyg)...executed.
+
+
+(./_minted-full/9C4515FD168725255791DCE8894FDAA06462872839073A193E3DB0067FC750A
+6.pygtex)
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/hints/长方体表面两点最短距离.
+cpp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) els
+e None; t = f.readlines() if f is not None else None; t_opt = t if t is not Non
+e else []; f.close() if f is not None else None; tmpfname = os.path.expanduser(
+os.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\")
+ if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if
+ fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.wr
+ite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:])
+ if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);"
+)...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6462872839073A193E3DB0067FC750A6.pygtex full.pyg)..
+.executed.
+
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...minted{cpp}{\source/hints/长方体表面两点最短距离.cpp}
+                                                  
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/hints/经纬度求球面最短距离.c
+pp\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else
+ None; t = f.readlines() if f is not None else None; t_opt = t if t is not None
+ else []; f.close() if f is not None else None; tmpfname = os.path.expanduser(o
+s.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") 
+if t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if 
+fvstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.wri
+te(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) 
+if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);")
+...executed.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -P math
+escape=True -o _minted-full/6462872839073A193E3DB0067FC750A6.pygtex full.pyg)..
+.executed.
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...tminted{cpp}{\source/hints/经纬度求球面最短距离.cpp}
+                                                  
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78]
+(../source/hints/Formula.tex [79]
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 29.
+
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 42.
+
+[80] [81]
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
+
+ []
+
+[82])
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf>
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf>
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf, page 1>
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf, page 1>
+ [83]
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf, page 1>
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf, page 1>
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf, page 1>
+ [84]
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf, page 2>
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf, page 2>
+File: ../source/hints/Integral.pdf Graphic file (type pdf)
+<use ../source/hints/Integral.pdf, page 2>
+ [85]
+runsystem(python -c "import sys; import os; import textwrap; from io import ope
+n; fname = os.path.expanduser(os.path.expandvars(\"../source/hints/template.jav
+a\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) else 
+None; t = f.readlines() if f is not None else None; t_opt = t if t is not None 
+else []; f.close() if f is not None else None; tmpfname = os.path.expanduser(os
+.path.expandvars(\"full.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8\") i
+f t is not None else None; fvstartnum = 0; fvstopnum = 0; s = fvstartnum-1 if f
+vstartnum != 0 else 0; e = fvstopnum if fvstopnum != 0 else len(t_opt); [f.writ
+e(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) i
+f x and t is not None]; f.close() if t is not None else os.remove(tmpfname);").
+..executed.
+
+runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -P mat
+hescape=True -o _minted-full/810C8C6A16D88FCB9BB96A43EC268E3526371287496947BD27
+775078DE72B7E8.pygtex full.pyg)...executed.
+
+
+(./_minted-full/810C8C6A16D88FCB9BB96A43EC268E3526371287496947BD27775078DE72B7E
+8.pygtex)
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 1>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 1>
+ [86]
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 1>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 1>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 1>
+ [87]
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 2>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 2>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 2>
+ [88]
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 3>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 3>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 3>
+ [89]
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 4>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 4>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 4>
+ [90]
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 5>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 5>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 5>
+ [91]
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 6>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 6>
+File: ../source/hints/BigDecimal.pdf Graphic file (type pdf)
+<use ../source/hints/BigDecimal.pdf, page 6>
+ [92]
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 1>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 1>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 1>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 1>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 1>
+ [93]
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 2>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 2>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 2>
+ [94]
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 3>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 3>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 3>
+ [95]
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 4>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 4>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 4>
+ [96]
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 5>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 5>
+File: ../source/hints/treemap.pdf Graphic file (type pdf)
+<use ../source/hints/treemap.pdf, page 5>
+ [97]) [98
+
+])
+runsystem(del _minted-full\default.pygstyle)...executed.
+
+runsystem(del _minted-full\8520780b5af29f20a18bdd1f18530a5b5ad132eb.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\eb8898b8701fef734cbbff7b600f53de6ca2cf9b.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\64dad20bfaa7c12cd164ed36d2c9aea4894ac161.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\5ac7e2d66e64465f1a715af7dc4a0b5ffe64a9ce.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\7186e4042c410a238631ffd9c28d3ddb21966cd5.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\d9763029fafd591661f7009e59a61802de14ece8.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\d3b54e8e6781683ac7dde9b96a1f6eb6996fbaef.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\a7deb1e01cb0bd47417dc0a5738b7c6fcbb0d2b1.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\6434f4c3c53fc0c4a0cf8b1b5cb0c2cb24f2546d.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\a12550c005953e2f678924c10a00f570b8e6a122.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\c96a7982dd1376dc2904a5485638800b187031c2.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\6440998441e1a0c1d9d09caac8d34712edc5790f.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\13ef9f85577fc6282512b722d4fe700a3c03d806.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\2fae332faa1cad2b291d3ed04a8090479c9457bc.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\e0b595d1c3fa94c81e2435ccecae6cfff3c92068.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\62d8be0cd859b085d07dd6e1d06d59ebe4a70e2e.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\aaccb298ea1dccb7353b40fafcd941a6527b1629.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\6bca75a06d853f45640db06a7f775594c40264e1.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\c017d1b5d3d0351cfe5c3b90ed49e2b59fa4e5ac.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\2a77655e924a9a37dd503487009fee5ea29c50a2.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\0e6122765ecff1a9568264965952dc8411b08d3d.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\19fa42ae583e40320a71bdc30db79942d1db8478.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\e53ceb003877fa25fe1fb15012eb38b49dd18e35.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\5c46b078fe778561febae5d246b644d527ccb501.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\44a0f60ff79af4189f6df2a602260d19e88bbeb7.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\d593464ec63883f943492d1f6250903684157d61.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\24365204befe39f1f890a2830344f0f1e9fed7aa.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\ccc4da8a21244cfdb72e488384d03b5eb01cb9ff.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\b50cb5dcd348d958a11b408415a8e9dde3186a63.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\8888e5007e093d2a1fec65a4eb42d7aec179894f.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\3d816244a15b2e434100a8a9a7d2c6618068a07b.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\9b48f11b6b56aebe485096d8e00378f681f590c9.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\40dd504c94ff484b73d33f16b12981a4c713225f.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\467aa9e49b57442a6dca49296e88420ca243a151.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\f32a12fdfdaca4744d4043765bc8fb53ab3f6ba4.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\cf155a172fc177df2128875005c8425891894040.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\510243a228a31ffb0a5001ab27c09552e4d747c4.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\80bbccd71dfbce8f4208071b88272e3279e1e3ff.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\fff7558a09e93eda36fb39735af43b3d150fc800.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\1fb36050e36c04d03a21314c90d66f395e9fb752.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\883dbffeab066d264b5500f481fc6adcf1d02ad1.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\462770ba94df28dfd95721b4094eab3dd27bf29c.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\ba182dce8ddf5e9b063cc7995333680643a13ef5.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\8c5fc3eee6695fcc58b815f579c7b6c4a8adeb9d.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\aa854baf821907387f6223532b6d22a2c1dbb841.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\b581106e85cb8dc3be8c529c9249708b4ab3ba25.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\41789e4ef412e9c0d0e959ff6959e9fe0244e7f2.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\db7749f34f720c8d53a45d2d0493238fca1be8fd.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\14a74238ad95be25cdafe85f24b0d1ff3319542a.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\b3469cd083484781ea7a4fb6e26e65a76a67c1ae.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\a21046e8265c9715ec6232548c2510f368f7055b.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\78e569f5f2fef824e2938ea831c8e4fd307d70d4.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\5131c17f85d60c6f17356a0133df647774dc6590.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\6dc28349675697d9b4ecb544ce97a37fec39d924.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\a72f44293ddfbad7fbc558e36c04f9c91117f9e6.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\8fce7f5761132c9840000c893b5c6ff528dc7946.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\41ca046db824d23e59b765d2e7c1a704fba40188.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\a23c77f78c16f61d678879339c02745de1e17354.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\066497b194dd7e8b54907859c039464ab6adc9db.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\b78e2591f2e37f82e2c91ecd3b4a494761183c95.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\12bc42016a9d9d617fe3b5ec7bcdb11b4aa8d16f.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\5e748d06d314efbbf8096e4124221b1dbbe024d4.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\4158ac8cb2b2d8a73a72660b0845f6bb828cb069.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\6bc99c483e5f516eafb8d7f69a4418ca53395c25.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\51c95668fc9ff17c2dc977e5033da07ebc175cbe.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\ce9154186955985558b00d9abf04b7aba3be3d50.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\8accda0f84f9c935dada1713d17dbc9b24c9e232.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\b7c02cb96585d0addd52ac8ee7879d52d46da4c2.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\74ec31cf6fb53fef1398a4790961734287738d75.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\031e02687d2788fbbccab147927ef48149130086.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\36cf09340272682854c92c91033ec8279886e195.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\f0e30ad4a2189489f2bd4b035ff575bf79cfb6c4.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\b6b878759b63a3df15184fe1c6b84f39bebabc9b.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\b5df86a184f123dd822569d6c3865c6f053ec892.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\38d03af7df212e73a318d5101e90aceda2c2afb3.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\2727a83e4da38e12eb65592b59ef99a7dcf4a8a0.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\3a93448f6ee5a8bb3a06cd8c304ad0c6e6aac883.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\5c8aa6c4920600e9ee239aa939a98d674fd7ac63.pygtex)...e
+xecuted.
+
+runsystem(del _minted-full\6a16947851cbf1442d358d0dff2145ee8b797585.pygtex)...e
+xecuted.
+
+
+(./full.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.21748pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+runsystem(del full.pyg)...executed.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 24500 strings out of 492962
+ 525305 string characters out of 6136967
+ 680522 words of memory out of 5000000
+ 27756 multiletter control sequences out of 15000+600000
+ 549850 words of font info for 137 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 52i,18n,82p,1140b,958s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on full.pdf (98 pages).

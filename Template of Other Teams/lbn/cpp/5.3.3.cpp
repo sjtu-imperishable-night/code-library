@@ -1,0 +1,24 @@
+u[1]=phi[1]=fac[1]=1;//积性函数的W(1)=1
+for(i=2;i<=n;i++){
+        if(!f[i]){
+            p[++t]=i;//i是素数
+            phi[i]=i-1;//欧拉函数
+            u[i]=-1;//莫比乌斯函数
+            fac[i]=2;//约数个数
+            d[i]=1;//辅助数组
+        }
+        for(j=1;j<=t&&i*p[j]<=n;j++){
+            f[i*p[j]]=1;//i*p[j]是素数，标记
+            if(i%p[j]==0){//i%p[j]=0，有平方因子，具体分析积性函数
+                phi[i*p[j]]=phi[i]*p[j];
+                u[i*p[j]]=0;
+                fac[i*p[j]]=fac[i]/(d[i]+1)*(d[i]+2);
+                d[i*p[j]]=d[i]+1;
+                break;
+            }//i*p[j]≠0，i和p[j]互质，积性函数W(i*p[j])=W(i)*W(p[j])
+            phi[i*p[j]]=phi[i]*(p[j]-1);
+            u[i*p[j]]=-u[i];
+            fac[i*p[j]]=fac[i]*2;
+            d[i*p[j]]=1;
+        }
+}

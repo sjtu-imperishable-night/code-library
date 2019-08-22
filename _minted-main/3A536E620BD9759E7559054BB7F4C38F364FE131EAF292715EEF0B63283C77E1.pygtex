@@ -1,0 +1,10 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+\PYG{c+c1}{// 如果想求一个字符串相对另外一个字符串的最长公共前缀, 可以把他们拼接起来从而求得}
+\PYG{k+kt}{void} \PYG{n+nf}{exkmp}\PYG{p}{(}\PYG{k+kt}{char} \PYG{o}{*}\PYG{n}{s}\PYG{p}{,} \PYG{k+kt}{int} \PYG{o}{*}\PYG{n}{a}\PYG{p}{,} \PYG{k+kt}{int} \PYG{n}{n}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+	\PYG{n}{a}\PYG{p}{[}\PYG{l+m+mi}{0}\PYG{p}{]} \PYG{o}{=} \PYG{n}{n}\PYG{p}{;} \PYG{k+kt}{int} \PYG{n}{p} \PYG{o}{=} \PYG{l+m+mi}{0}\PYG{p}{,} \PYG{n}{r} \PYG{o}{=} \PYG{l+m+mi}{0}\PYG{p}{;}
+	\PYG{k}{for} \PYG{p}{(}\PYG{k+kt}{int} \PYG{n}{i} \PYG{o}{=} \PYG{l+m+mi}{1}\PYG{p}{;} \PYG{n}{i} \PYG{o}{\PYGZlt{}} \PYG{n}{n}\PYG{p}{;} \PYG{o}{++}\PYG{n}{i}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+		\PYG{n}{a}\PYG{p}{[}\PYG{n}{i}\PYG{p}{]} \PYG{o}{=} \PYG{p}{(}\PYG{n}{r} \PYG{o}{\PYGZgt{}} \PYG{n}{i}\PYG{p}{)} \PYG{o}{?} \PYG{n}{min}\PYG{p}{(}\PYG{n}{r} \PYG{o}{\PYGZhy{}} \PYG{n}{i}\PYG{p}{,} \PYG{n}{a}\PYG{p}{[}\PYG{n}{i} \PYG{o}{\PYGZhy{}} \PYG{n}{p}\PYG{p}{])} \PYG{o}{:} \PYG{l+m+mi}{0}\PYG{p}{;}
+		\PYG{k}{while} \PYG{p}{(}\PYG{n}{i} \PYG{o}{+} \PYG{n}{a}\PYG{p}{[}\PYG{n}{i}\PYG{p}{]} \PYG{o}{\PYGZlt{}} \PYG{n}{n} \PYG{o}{\PYGZam{}\PYGZam{}} \PYG{n}{s}\PYG{p}{[}\PYG{n}{i} \PYG{o}{+} \PYG{n}{a}\PYG{p}{[}\PYG{n}{i}\PYG{p}{]]} \PYG{o}{==} \PYG{n}{s}\PYG{p}{[}\PYG{n}{a}\PYG{p}{[}\PYG{n}{i}\PYG{p}{]])} \PYG{o}{++}\PYG{n}{a}\PYG{p}{[}\PYG{n}{i}\PYG{p}{];}
+		\PYG{k}{if} \PYG{p}{(}\PYG{n}{r} \PYG{o}{\PYGZlt{}} \PYG{n}{i} \PYG{o}{+} \PYG{n}{a}\PYG{p}{[}\PYG{n}{i}\PYG{p}{])} \PYG{n}{r} \PYG{o}{=} \PYG{n}{i} \PYG{o}{+} \PYG{n}{a}\PYG{p}{[}\PYG{n}{i}\PYG{p}{],} \PYG{n}{p} \PYG{o}{=} \PYG{n}{i}\PYG{p}{;}
+\PYG{p}{\PYGZcb{}\PYGZcb{}}
+\end{Verbatim}

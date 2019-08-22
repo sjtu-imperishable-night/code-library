@@ -1,0 +1,1 @@
+void del(int x){v[x]=1;int l=pre[x],r=ne[x];pre[x]=ne[x]=0;ne[l]=r;pre[r]=l;}

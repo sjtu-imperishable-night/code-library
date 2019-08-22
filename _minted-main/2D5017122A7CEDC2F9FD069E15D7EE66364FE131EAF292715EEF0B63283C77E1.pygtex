@@ -1,0 +1,77 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+\PYG{c+cp}{\PYGZsh{}include}\PYG{c+cpf}{\PYGZlt{}iostream\PYGZgt{}}
+\PYG{c+cp}{\PYGZsh{}include}\PYG{c+cpf}{\PYGZlt{}cstring\PYGZgt{}}
+\PYG{k}{using} \PYG{k}{namespace} \PYG{n}{std}\PYG{p}{;} 
+\PYG{k}{const} \PYG{k+kt}{int} \PYG{n}{MaxPoint}\PYG{o}{=}\PYG{l+m+mi}{1010101}\PYG{p}{;}
+\PYG{k}{struct} \PYG{n}{Suffix\PYGZus{}AutoMachine}\PYG{p}{\PYGZob{}}
+	\PYG{k+kt}{int} \PYG{n}{son}\PYG{p}{[}\PYG{n}{MaxPoint}\PYG{p}{][}\PYG{l+m+mi}{27}\PYG{p}{],}\PYG{n}{pre}\PYG{p}{[}\PYG{n}{MaxPoint}\PYG{p}{],}\PYG{n}{step}\PYG{p}{[}\PYG{n}{MaxPoint}\PYG{p}{],}\PYG{n}{right}\PYG{p}{[}\PYG{n}{MaxPoint}\PYG{p}{],}\PYG{n}{last}\PYG{p}{,}\PYG{n}{root}\PYG{p}{,}\PYG{n}{num}\PYG{p}{;}
+	\PYG{k+kt}{int} \PYG{n+nf}{NewNode}\PYG{p}{(}\PYG{k+kt}{int} \PYG{n}{stp}\PYG{p}{)}
+	\PYG{p}{\PYGZob{}}
+		\PYG{n}{num}\PYG{o}{++}\PYG{p}{;}
+		\PYG{n}{memset}\PYG{p}{(}\PYG{n}{son}\PYG{p}{[}\PYG{n}{num}\PYG{p}{],}\PYG{l+m+mi}{0}\PYG{p}{,}\PYG{k}{sizeof}\PYG{p}{(}\PYG{n}{son}\PYG{p}{[}\PYG{n}{num}\PYG{p}{]));}
+		\PYG{n}{pre}\PYG{p}{[}\PYG{n}{num}\PYG{p}{]}\PYG{o}{=}\PYG{l+m+mi}{0}\PYG{p}{;}
+		\PYG{n}{step}\PYG{p}{[}\PYG{n}{num}\PYG{p}{]}\PYG{o}{=}\PYG{n}{stp}\PYG{p}{;}
+		\PYG{k}{return} \PYG{n}{num}\PYG{p}{;}
+	\PYG{p}{\PYGZcb{}}
+	\PYG{n}{Suffix\PYGZus{}AutoMachine}\PYG{p}{()}
+	\PYG{p}{\PYGZob{}}
+		\PYG{n}{num}\PYG{o}{=}\PYG{l+m+mi}{0}\PYG{p}{;}
+		\PYG{n}{root}\PYG{o}{=}\PYG{n}{last}\PYG{o}{=}\PYG{n}{NewNode}\PYG{p}{(}\PYG{l+m+mi}{0}\PYG{p}{);}
+	\PYG{p}{\PYGZcb{}}
+	\PYG{k+kt}{void} \PYG{n}{push\PYGZus{}back}\PYG{p}{(}\PYG{k+kt}{int} \PYG{n}{ch}\PYG{p}{)}
+	\PYG{p}{\PYGZob{}}
+		\PYG{k+kt}{int} \PYG{n}{np}\PYG{o}{=}\PYG{n}{NewNode}\PYG{p}{(}\PYG{n}{step}\PYG{p}{[}\PYG{n}{last}\PYG{p}{]}\PYG{o}{+}\PYG{l+m+mi}{1}\PYG{p}{);}
+		\PYG{n}{right}\PYG{p}{[}\PYG{n}{np}\PYG{p}{]}\PYG{o}{=}\PYG{l+m+mi}{1}\PYG{p}{;} 
+		\PYG{n}{step}\PYG{p}{[}\PYG{n}{np}\PYG{p}{]}\PYG{o}{=}\PYG{n}{step}\PYG{p}{[}\PYG{n}{last}\PYG{p}{]}\PYG{o}{+}\PYG{l+m+mi}{1}\PYG{p}{;}
+		\PYG{k+kt}{int} \PYG{n}{p}\PYG{o}{=}\PYG{n}{last}\PYG{p}{;}
+		\PYG{k}{while}\PYG{p}{(}\PYG{n}{p}\PYG{o}{\PYGZam{}\PYGZam{}!}\PYG{n}{son}\PYG{p}{[}\PYG{n}{p}\PYG{p}{][}\PYG{n}{ch}\PYG{p}{])}
+		\PYG{p}{\PYGZob{}}
+			\PYG{n}{son}\PYG{p}{[}\PYG{n}{p}\PYG{p}{][}\PYG{n}{ch}\PYG{p}{]}\PYG{o}{=}\PYG{n}{np}\PYG{p}{;}
+			\PYG{n}{p}\PYG{o}{=}\PYG{n}{pre}\PYG{p}{[}\PYG{n}{p}\PYG{p}{];}
+		\PYG{p}{\PYGZcb{}}
+		\PYG{k}{if}\PYG{p}{(}\PYG{o}{!}\PYG{n}{p}\PYG{p}{)}
+			\PYG{n}{pre}\PYG{p}{[}\PYG{n}{np}\PYG{p}{]}\PYG{o}{=}\PYG{n}{root}\PYG{p}{;}
+		\PYG{k}{else}
+		\PYG{p}{\PYGZob{}}
+			\PYG{k+kt}{int} \PYG{n}{q}\PYG{o}{=}\PYG{n}{son}\PYG{p}{[}\PYG{n}{p}\PYG{p}{][}\PYG{n}{ch}\PYG{p}{];}
+			\PYG{k}{if}\PYG{p}{(}\PYG{n}{step}\PYG{p}{[}\PYG{n}{q}\PYG{p}{]}\PYG{o}{==}\PYG{n}{step}\PYG{p}{[}\PYG{n}{p}\PYG{p}{]}\PYG{o}{+}\PYG{l+m+mi}{1}\PYG{p}{)}
+				\PYG{n}{pre}\PYG{p}{[}\PYG{n}{np}\PYG{p}{]}\PYG{o}{=}\PYG{n}{q}\PYG{p}{;}
+			\PYG{k}{else}
+			\PYG{p}{\PYGZob{}}
+				\PYG{k+kt}{int} \PYG{n}{nq}\PYG{o}{=}\PYG{n}{NewNode}\PYG{p}{(}\PYG{n}{step}\PYG{p}{[}\PYG{n}{p}\PYG{p}{]}\PYG{o}{+}\PYG{l+m+mi}{1}\PYG{p}{);}
+				\PYG{n}{memcpy}\PYG{p}{(}\PYG{n}{son}\PYG{p}{[}\PYG{n}{nq}\PYG{p}{],}\PYG{n}{son}\PYG{p}{[}\PYG{n}{q}\PYG{p}{],}\PYG{k}{sizeof}\PYG{p}{(}\PYG{n}{son}\PYG{p}{[}\PYG{n}{q}\PYG{p}{]));}
+				\PYG{n}{step}\PYG{p}{[}\PYG{n}{nq}\PYG{p}{]}\PYG{o}{=}\PYG{n}{step}\PYG{p}{[}\PYG{n}{p}\PYG{p}{]}\PYG{o}{+}\PYG{l+m+mi}{1}\PYG{p}{;}
+				\PYG{n}{pre}\PYG{p}{[}\PYG{n}{nq}\PYG{p}{]}\PYG{o}{=}\PYG{n}{pre}\PYG{p}{[}\PYG{n}{q}\PYG{p}{];}
+				\PYG{n}{pre}\PYG{p}{[}\PYG{n}{q}\PYG{p}{]}\PYG{o}{=}\PYG{n}{pre}\PYG{p}{[}\PYG{n}{np}\PYG{p}{]}\PYG{o}{=}\PYG{n}{nq}\PYG{p}{;}
+				\PYG{k}{while}\PYG{p}{(}\PYG{n}{p}\PYG{o}{\PYGZam{}\PYGZam{}}\PYG{n}{son}\PYG{p}{[}\PYG{n}{p}\PYG{p}{][}\PYG{n}{ch}\PYG{p}{]}\PYG{o}{==}\PYG{n}{q}\PYG{p}{)}
+				\PYG{p}{\PYGZob{}}
+					\PYG{n}{son}\PYG{p}{[}\PYG{n}{p}\PYG{p}{][}\PYG{n}{ch}\PYG{p}{]}\PYG{o}{=}\PYG{n}{nq}\PYG{p}{;}
+					\PYG{n}{p}\PYG{o}{=}\PYG{n}{pre}\PYG{p}{[}\PYG{n}{p}\PYG{p}{];}
+				\PYG{p}{\PYGZcb{}}
+			\PYG{p}{\PYGZcb{}}
+		\PYG{p}{\PYGZcb{}}
+		\PYG{n}{last}\PYG{o}{=}\PYG{n}{np}\PYG{p}{;}
+	\PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{};}
+\PYG{c+cm}{/*}
+
+\PYG{c+cm}{int arr[1010101];}
+\PYG{c+cm}{bool Step\PYGZus{}Cmp(int x,int y)}
+\PYG{c+cm}{\PYGZob{}}
+\PYG{c+cm}{	return S.step[x]\PYGZlt{}S.step[y];}
+\PYG{c+cm}{\PYGZcb{}}
+\PYG{c+cm}{void Get\PYGZus{}Right()}
+\PYG{c+cm}{\PYGZob{}}
+\PYG{c+cm}{	for(int i=1;i\PYGZlt{}=S.num;i++)}
+\PYG{c+cm}{		arr[i]=i;}
+\PYG{c+cm}{	sort(arr+1,arr+S.num+1,Step\PYGZus{}Cmp);}
+\PYG{c+cm}{	for(int i=S.num;i\PYGZgt{}=2;i\PYGZhy{}\PYGZhy{})}
+\PYG{c+cm}{		S.right[S.pre[arr[i]]]+=S.right[arr[i]];}
+\PYG{c+cm}{\PYGZcb{}}
+\PYG{c+cm}{*/} 
+\PYG{k+kt}{int} \PYG{n+nf}{main}\PYG{p}{()}
+\PYG{p}{\PYGZob{}}
+
+	\PYG{k}{return} \PYG{l+m+mi}{0}\PYG{p}{;}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

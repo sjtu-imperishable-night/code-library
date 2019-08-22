@@ -1,0 +1,17 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+\PYG{c+c1}{// 把串 s 划分成 lyndon words，s1, s2, s3, ..., sk}
+\PYG{c+c1}{// 每个串都严格小于他们的每个后缀，且串大小不增}
+\PYG{c+c1}{// 如果求每个前缀的最小后缀，取最后一次 k 经过这个前缀的右边界时的信息更新}
+\PYG{c+c1}{// 如果求每个前缀的最大后缀，更改大小于号，并且取第一次 k 经过这个前缀的信息更新}
+\PYG{k+kt}{void} \PYG{n+nf}{lynDecomp}\PYG{p}{()} \PYG{p}{\PYGZob{}}
+	\PYG{n}{vector}\PYG{o}{\PYGZlt{}}\PYG{n}{string}\PYG{o}{\PYGZgt{}} \PYG{n}{ss}\PYG{p}{;}
+	\PYG{k}{for} \PYG{p}{(}\PYG{k+kt}{int} \PYG{n}{i} \PYG{o}{=} \PYG{l+m+mi}{0}\PYG{p}{;} \PYG{n}{i} \PYG{o}{\PYGZlt{}} \PYG{n}{n}\PYG{p}{;} \PYG{p}{)} \PYG{p}{\PYGZob{}}
+		\PYG{k+kt}{int} \PYG{n}{j} \PYG{o}{=} \PYG{n}{i}\PYG{p}{,} \PYG{n}{k} \PYG{o}{=} \PYG{n}{i} \PYG{o}{+} \PYG{l+m+mi}{1}\PYG{p}{;} \PYG{c+c1}{//mnsuf[i] = i;}
+		\PYG{k}{for} \PYG{p}{(;} \PYG{n}{k} \PYG{o}{\PYGZlt{}} \PYG{n}{n} \PYG{o}{\PYGZam{}\PYGZam{}} \PYG{n}{s}\PYG{p}{[}\PYG{n}{k}\PYG{p}{]} \PYG{o}{\PYGZgt{}=} \PYG{n}{s}\PYG{p}{[}\PYG{n}{j}\PYG{p}{];} \PYG{n}{k}\PYG{o}{++}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+			\PYG{k}{if} \PYG{p}{(}\PYG{n}{s}\PYG{p}{[}\PYG{n}{k}\PYG{p}{]} \PYG{o}{==} \PYG{n}{s}\PYG{p}{[}\PYG{n}{j}\PYG{p}{])} \PYG{n}{j}\PYG{o}{++}\PYG{p}{;} \PYG{c+c1}{// mnsuf[k] = mnsuf[j] + k \PYGZhy{} j;}
+			\PYG{k}{else} \PYG{n}{j} \PYG{o}{=} \PYG{n}{i}\PYG{p}{;} \PYG{c+c1}{// mnsuf[k] = i;}
+		\PYG{p}{\PYGZcb{}}
+		\PYG{k}{for} \PYG{p}{(;} \PYG{n}{i} \PYG{o}{\PYGZlt{}=} \PYG{n}{j}\PYG{p}{;} \PYG{n}{i} \PYG{o}{+=} \PYG{n}{k} \PYG{o}{\PYGZhy{}} \PYG{n}{j}\PYG{p}{)} \PYG{n}{ss}\PYG{p}{.}\PYG{n}{push\PYGZus{}back}\PYG{p}{(}\PYG{n}{s}\PYG{p}{.}\PYG{n}{substr}\PYG{p}{(}\PYG{n}{i}\PYG{p}{,} \PYG{n}{k} \PYG{o}{\PYGZhy{}} \PYG{n}{j}\PYG{p}{));}
+	\PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

@@ -1,0 +1,1 @@
+for(int W=100;W--;)if(ok(md=(l+r)*.5))l=md;else r=md;
